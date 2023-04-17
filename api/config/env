@@ -1,0 +1,16 @@
+// NODE_ENV=development
+// PORT= 5000
+
+// MONGO_URL=mongodb+srv://osama123:osama123@cluster0.9p8kuhz.mongodb.net/devCamper?retryWrites=true&w=majority
+
+// GEOCODER_PROVIDER=mapquest
+// GEOCODER_API_KEY=qNHggxhLwGEb7XAZTPXQ0yfr4nEWml2F
+
+
+// FILE_UPLOAD_PATH=./public/uploads
+// MAX_FILE_UPLOAD=1000000
+
+
+//     JWT_SECRET=jasjsa88882828282iwjsjsjs
+//     JWT_EXPIRE= 30d
+//     JWT_COOKIE= 30
